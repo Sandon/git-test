@@ -1,0 +1,11 @@
+{
+  "name": "git-test",
+  "version": "0.0.1",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
